@@ -6,7 +6,7 @@ JavaScript 使 HTML 页面具有更强的动态和交互性。
 
 --------
 
-![Examples](images/tryitimg.gif)## 在线实例
+## ![Examples](images/tryitimg.gif) 在线实例
 
 [插入一段脚本](http://www.runoob.com/try/try.php?filename=tryhtml_script)
 

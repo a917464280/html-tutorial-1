@@ -25,9 +25,7 @@ HTML 使用标签&lt;b&gt; 与&lt;i&gt; 对输出的文本进行格式, 如： *
 
 --------
 
-![Examples](images/tryitimg.gif)
-
-## 在线实例
+## ![Examples](images/tryitimg.gif) 在线实例
 
 [文本格式化](http://www.runoob.com/try/try.php?filename=tryhtml_formattingch)
 

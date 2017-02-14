@@ -87,7 +87,7 @@
 
 [查看以颜色名称排序的颜色列表](http://www.w3cschool.cc/html/html-colornames.html)
 
-<table cellspacing="0" border="1" width="100%">
+<table cellspacing="0">
 <tr>
 <th align="left" width="25%">Color Name</th>
 <th align="left" width="15%">HEX</th>

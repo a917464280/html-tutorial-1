@@ -2,7 +2,7 @@
 
 --------
 
-![Examples](images/tryitimg.gif)## 查看在线实例
+## ![Examples](images/tryitimg.gif) 查看在线实例
 
 [&lt;title&gt; - 定义了HTML文档的标题](http://www.runoob.com/try/try.php?filename=tryhtml_title)
 

@@ -6,7 +6,7 @@ HTML 使用超级链接与网络上的另一个文档相连。几乎可以在所
 
 --------
 
-![Examples](images/tryitimg.gif)## 尝试一下 - 实例
+## ![Examples](images/tryitimg.gif) 尝试一下 - 实例
 
 [HTML 链接](http://www.runoob.com/try/try.php?filename=tryhtml_links)
 
@@ -112,7 +112,7 @@ id属性可用于创建在一个HTML文档书签标记。
 
 --------
 
-![Examples](images/tryitimg.gif)## 更多实例
+## ![Examples](images/tryitimg.gif) 更多实例
 
 [图片链接](http://www.runoob.com/try/try.php?filename=tryhtml_imglink)
 

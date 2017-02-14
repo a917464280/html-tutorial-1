@@ -72,7 +72,7 @@ HTML 可以将文档分割为若干段落。
 
 --------
 
-![Examples](images/tryitimg.gif)## 本站实例
+## ![Examples](images/tryitimg.gif) 本站实例
 
 [HTML 段落](http://www.runoob.com/try/try.php?filename=tryhtml_paragraphs1)
 

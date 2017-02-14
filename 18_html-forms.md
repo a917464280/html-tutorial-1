@@ -6,7 +6,7 @@ HTML 表单用于搜集不同类型的用户输入。
 
 --------
 
-![Examples](images/tryitimg.gif)## 在线实例
+## ![Examples](images/tryitimg.gif) 在线实例
 
 [创建文本字段 (Text field)](http://www.runoob.com/try/try.php?filename=tryhtml_input)
 

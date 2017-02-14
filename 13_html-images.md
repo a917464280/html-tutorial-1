@@ -10,7 +10,7 @@
 
 --------
 
-![Examples](images/tryitimg.gif)## 在线实例
+## ![Examples](images/tryitimg.gif) 在线实例
 
 [插入图像](http://www.runoob.com/try/try.php?filename=tryhtml_images)
 
@@ -80,7 +80,7 @@ height（高度） 与 width（宽度）属性用于设置图像的高度与宽�
 
 --------
 
-![Examples](images/tryitimg.gif)## 更多实例
+## ![Examples](images/tryitimg.gif) 更多实例
 
 [排列图片](http://www.runoob.com/try/try.php?filename=tryhtml_image_align)
 

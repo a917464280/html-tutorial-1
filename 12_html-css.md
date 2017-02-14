@@ -19,7 +19,7 @@ CSS (Cascading Style Sheets) 用于渲染HTML元素标签的样式.
 
 --------
 
-![实例](images/tryitimg.gif)## 尝试一下 - 实例
+## ![实例](images/tryitimg.gif) 尝试一下 - 实例
 
 [HTML使用样式](http://www.runoob.com/try/try.php?filename=tryhtml_style)
 

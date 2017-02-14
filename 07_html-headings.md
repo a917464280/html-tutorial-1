@@ -84,7 +84,7 @@
 
 --------
 
-![Examples](images/tryitimg.gif)## 本站实例
+## ![Examples](images/tryitimg.gif) 本站实例
 
 [标题](http://www.runoob.com/try/try.php?filename=tryhtml_headers)
 

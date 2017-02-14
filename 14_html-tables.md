@@ -13,7 +13,7 @@
 
 --------
 
-![Examples](images/tryitimg.gif)## 在线实例
+## ![Examples](images/tryitimg.gif) 在线实例
 
 [表格](http://www.runoob.com/try/try.php?filename=tryhtml_tables)
 
@@ -98,7 +98,7 @@
 
 --------
 
-![Examples](images/tryitimg.gif)## 更多实例
+## ![Examples](images/tryitimg.gif) 更多实例
 
 [没有边框的表格](http://www.runoob.com/try/try.php?filename=tryhtml_tables3)
 

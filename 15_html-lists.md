@@ -115,7 +115,7 @@ Milk
 
 --------
 
-## [Examples](images/tryitimg.gif) 更多实例
+## ![Examples](images/tryitimg.gif) 更多实例
 
 [不同类型的有序列表](http://www.runoob.com/try/try.php?filename=tryhtml_lists_ordered)
 

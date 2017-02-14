@@ -17,9 +17,9 @@ HTML 中的预留字符必须被替换为字符实体。
 如果希望正确地显示预留字符，我们必须在 HTML 源代码中使用字符实体（character entities）。 字符实体类似这样：
 
 ```HTML
-&<i>entity_name</i>;
-<p>或</p>
-&#<i>entity_number</i>;
+&entity_name;
+或
+&#entity_number;
 ```
 
 如需显示小于号，我们必须这样写： **&amp;lt;**  或 **&amp;#60;**  或  **&amp;#060;**

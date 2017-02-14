@@ -506,7 +506,7 @@ HTML 颜色由一个十六进制符号来定义，这个符号由红色、绿色
 
 最初，216 跨平台 web 安全色被用来确保：当计算机使用 256 色调色板时，所有的计算机能够正确地显示所有的颜色。
 
-<table border="1" width="100%"><tbody>
+<table><tbody>
     <tr>
       <td align="center" style="color:#ffffff" bgcolor="#000000">000000</td>
       <td align="center" style="color:#ffffff" bgcolor="#000033">000033</td>

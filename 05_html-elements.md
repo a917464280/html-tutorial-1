@@ -14,7 +14,7 @@ HTML 文档由 HTML 元素定义。
 | &lt;a href="default.htm"&gt; | 这是一个链接 | &lt;/a&gt; |
 | &lt;br&gt; | &nbsp; | &nbsp; |
 
-***** 开始标签常被称为 **起始标签（opening tag）** ，结束标签常称为 **闭合标签（closing tag）** 。
+\* 开始标签常被称为 **起始标签（opening tag）** ，结束标签常称为 **闭合标签（closing tag）** 。
 
 --------
 
